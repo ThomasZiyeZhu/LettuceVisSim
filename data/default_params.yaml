@@ -1,0 +1,34 @@
+ # Photosynthesis parameters
+c_a: 0.68    # ratio of the molecular weights of CH2O and CO2
+c_b: 0.8     # yield factor cB indicates the respiratory and synthesis losses of non-structural material due to growth
+c_epsilon: 1.02e-5  # g J^-1 light use efficiency at very high CO2 concentration
+c_w: 1.83e-3  # g/m3 density of CO2
+
+# Growth parameters
+c_gr_max: 5.0e-6  # the saturation growth rate at 20°C. s^-1
+c_r: 1.0     # value 0.5-1
+
+# Respiration parameters
+c_resp_sht: 3.47e-7  # maintenance respiration coefficients for the shoot unit s^-1
+c_resp_rt: 1.16e-7   # maintenance respiration coefficients for the root s^-1
+
+# Temperature response parameters
+c_Q10_gr: 1.6    # Q10 factor for growth rate
+c_Q10_resp: 2.0  # Q10 factor of the maintenance respiration
+c_Q10_R: 2.0     # effect of temperature on CO2 compensation point
+
+# Structural parameters
+c_t: 0.15    # root to whole dry weight ratio
+c_k: 0.9     # extinction coefficient value for planophile and erectophile canopies
+c_lar: 0.05  # m2/g the structural leaf area ratio which is assumed to be constant
+
+# Gas exchange parameters
+c_R: 40.0    # ppm, CO2 compensation point at 20 degree
+g_bnd: 0.007  # m/s boundary layer conductance
+g_stm: 0.005  # m/s stomata conductance during daytime
+c_car_1: -1.32e-5  # m/s
+c_car_2: 5.94e-4   # m/s
+c_car_3: -2.64e-3  # m/s
+
+# Additional parameters
+DMC: 0.05    # dry matter content dry weight/fresh weight

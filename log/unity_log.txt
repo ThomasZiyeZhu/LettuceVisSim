@@ -1,0 +1,215 @@
+Mono path[0] = 'd:/Project/LettuceRender/LettuceGrowthDynamic/LettuceRender/LettuceRender_Data/Managed'
+Mono config path = 'd:/Project/LettuceRender/LettuceGrowthDynamic/LettuceRender/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.48f1 (170d2541580d)
+[Subsystems] Discovering subsystems at path d:/Project/LettuceRender/LettuceGrowthDynamic/LettuceRender/LettuceRender_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.6094
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.080 seconds
+- Finished resetting the current domain, in  0.001 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+UnloadTime: 0.309100 ms
+[Unity] SimulationManager started
+[Unity] ZMQ thread started
+[Unity] ZMQ server bound to port 5555
+[Unity] Processing handshake message
+[Unity] Handshake response sent
+[Unity] Received initialization config: 84x84
+[Unity] Reinitializing image capture with size: 84x84
+[Unity] Image capture reinitialized successfully with size: 84x84
+[Unity] Initialization completed: 84x84
+[Unity] Processing step 0
+[Unity] Scene updated for step 0, day 0, using prefab index 0
+RenderGraph is now enabled.
+[Unity] Response prepared for step 0, RGB size: 12741, Seg size: 1825
+[Unity] Response sent for step 0
+[Unity] Processing step 24
+[Unity] Scene updated for step 24, day 1, using prefab index 1
+[Unity] Response prepared for step 24, RGB size: 14411, Seg size: 2072
+[Unity] Response sent for step 24
+[Unity] Processing step 48
+[Unity] Scene updated for step 48, day 2, using prefab index 2
+[Unity] Response prepared for step 48, RGB size: 15069, Seg size: 2165
+[Unity] Response sent for step 48
+[Unity] Processing step 72
+[Unity] Scene updated for step 72, day 3, using prefab index 3
+[Unity] Response prepared for step 72, RGB size: 15724, Seg size: 2278
+[Unity] Response sent for step 72
+[Unity] Processing step 96
+[Unity] Scene updated for step 96, day 4, using prefab index 4
+[Unity] Response prepared for step 96, RGB size: 15997, Seg size: 2287
+[Unity] Response sent for step 96
+[Unity] Processing step 120
+[Unity] Scene updated for step 120, day 5, using prefab index 5
+[Unity] Response prepared for step 120, RGB size: 16187, Seg size: 2277
+[Unity] Response sent for step 120
+[Unity] Processing step 144
+[Unity] Scene updated for step 144, day 6, using prefab index 6
+[Unity] Response prepared for step 144, RGB size: 16612, Seg size: 2414
+[Unity] Response sent for step 144
+[Unity] Processing step 168
+[Unity] Scene updated for step 168, day 7, using prefab index 7
+[Unity] Response prepared for step 168, RGB size: 16853, Seg size: 2414
+[Unity] Response sent for step 168
+[Unity] Processing step 192
+[Unity] Scene updated for step 192, day 8, using prefab index 8
+[Unity] Response prepared for step 192, RGB size: 16911, Seg size: 2396
+[Unity] Response sent for step 192
+[Unity] Processing step 216
+[Unity] Scene updated for step 216, day 9, using prefab index 9
+[Unity] Response prepared for step 216, RGB size: 16505, Seg size: 2414
+[Unity] Response sent for step 216
+[Unity] Processing step 240
+[Unity] Scene updated for step 240, day 10, using prefab index 10
+[Unity] Response prepared for step 240, RGB size: 15289, Seg size: 2116
+[Unity] Response sent for step 240
+[Unity] Processing step 264
+[Unity] Scene updated for step 264, day 11, using prefab index 11
+[Unity] Response prepared for step 264, RGB size: 15670, Seg size: 2147
+[Unity] Response sent for step 264
+[Unity] Processing step 288
+[Unity] Scene updated for step 288, day 12, using prefab index 12
+[Unity] Response prepared for step 288, RGB size: 15998, Seg size: 2141
+[Unity] Response sent for step 288
+[Unity] Processing step 312
+[Unity] Scene updated for step 312, day 13, using prefab index 13
+[Unity] Response prepared for step 312, RGB size: 16437, Seg size: 2158
+[Unity] Response sent for step 312
+[Unity] Processing step 336
+[Unity] Scene updated for step 336, day 14, using prefab index 14
+[Unity] Response prepared for step 336, RGB size: 15322, Seg size: 1975
+[Unity] Response sent for step 336
+[Unity] Processing step 360
+[Unity] Scene updated for step 360, day 15, using prefab index 15
+[Unity] Response prepared for step 360, RGB size: 15898, Seg size: 1963
+[Unity] Response sent for step 360
+[Unity] Processing step 384
+[Unity] Scene updated for step 384, day 16, using prefab index 16
+[Unity] Response prepared for step 384, RGB size: 16271, Seg size: 1926
+[Unity] Response sent for step 384
+[Unity] Processing step 408
+[Unity] Scene updated for step 408, day 17, using prefab index 17
+[Unity] Response prepared for step 408, RGB size: 16432, Seg size: 1838
+[Unity] Response sent for step 408
+[Unity] Processing step 432
+[Unity] Scene updated for step 432, day 18, using prefab index 18
+[Unity] Response prepared for step 432, RGB size: 16469, Seg size: 1852
+[Unity] Response sent for step 432
+[Unity] Processing step 456
+[Unity] Scene updated for step 456, day 19, using prefab index 19
+[Unity] Response prepared for step 456, RGB size: 16331, Seg size: 1596
+[Unity] Response sent for step 456
+[Unity] Processing step 480
+[Unity] Scene updated for step 480, day 20, using prefab index 20
+[Unity] Response prepared for step 480, RGB size: 16326, Seg size: 1527
+[Unity] Response sent for step 480
+[Unity] Processing step 504
+[Unity] Scene updated for step 504, day 21, using prefab index 21
+[Unity] Response prepared for step 504, RGB size: 16447, Seg size: 1102
+[Unity] Response sent for step 504
+[Unity] Processing step 528
+[Unity] Scene updated for step 528, day 22, using prefab index 22
+[Unity] Response prepared for step 528, RGB size: 16316, Seg size: 917
+[Unity] Response sent for step 528
+[Unity] Processing step 552
+[Unity] Scene updated for step 552, day 23, using prefab index 23
+[Unity] Response prepared for step 552, RGB size: 16187, Seg size: 1161
+[Unity] Response sent for step 552
+[Unity] Processing step 576
+[Unity] Scene updated for step 576, day 24, using prefab index 24
+[Unity] Response prepared for step 576, RGB size: 15805, Seg size: 1275
+[Unity] Response sent for step 576
+[Unity] Processing step 600
+[Unity] Scene updated for step 600, day 25, using prefab index 25
+[Unity] Response prepared for step 600, RGB size: 15887, Seg size: 1127
+[Unity] Response sent for step 600
+[Unity] Processing step 624
+[Unity] Scene updated for step 624, day 26, using prefab index 26
+[Unity] Response prepared for step 624, RGB size: 15824, Seg size: 1010
+[Unity] Response sent for step 624
+[Unity] Processing step 648
+[Unity] Scene updated for step 648, day 27, using prefab index 27
+[Unity] Response prepared for step 648, RGB size: 16005, Seg size: 810
+[Unity] Response sent for step 648
+[Unity] Processing step 672
+[Unity] Scene updated for step 672, day 28, using prefab index 28
+[Unity] Response prepared for step 672, RGB size: 16118, Seg size: 676
+[Unity] Response sent for step 672
+[Unity] Processing step 696
+[Unity] Scene updated for step 696, day 29, using prefab index 28
+[Unity] Response prepared for step 696, RGB size: 16052, Seg size: 594
+[Unity] Response sent for step 696
+[Unity] Processing step 720
+[Unity] Scene updated for step 720, day 30, using prefab index 28
+[Unity] Response prepared for step 720, RGB size: 15805, Seg size: 453
+[Unity] Response sent for step 720
+[Unity] Processing step 744
+[Unity] Scene updated for step 744, day 31, using prefab index 28
+[Unity] Response prepared for step 744, RGB size: 15725, Seg size: 402
+[Unity] Response sent for step 744
+[Unity] Processing step 768
+[Unity] Scene updated for step 768, day 32, using prefab index 28
+[Unity] Response prepared for step 768, RGB size: 15756, Seg size: 471
+[Unity] Response sent for step 768
+[Unity] Processing step 792
+[Unity] Scene updated for step 792, day 33, using prefab index 28
+[Unity] Response prepared for step 792, RGB size: 15489, Seg size: 714
+[Unity] Response sent for step 792
+[Unity] Processing step 816
+[Unity] Scene updated for step 816, day 34, using prefab index 28
+[Unity] Response prepared for step 816, RGB size: 15075, Seg size: 1065
+[Unity] Response sent for step 816
+[Unity] Processing step 840
+[Unity] Scene updated for step 840, day 35, using prefab index 28
+[Unity] Response prepared for step 840, RGB size: 15328, Seg size: 891
+[Unity] Response sent for step 840
+[Unity] Processing step 864
+[Unity] Scene updated for step 864, day 36, using prefab index 28
+[Unity] Response prepared for step 864, RGB size: 15214, Seg size: 785
+[Unity] Response sent for step 864
+[Unity] Processing step 888
+[Unity] Scene updated for step 888, day 37, using prefab index 28
+[Unity] Response prepared for step 888, RGB size: 14965, Seg size: 700
+[Unity] Response sent for step 888
+[Unity] Processing step 912
+[Unity] Scene updated for step 912, day 38, using prefab index 28
+[Unity] Response prepared for step 912, RGB size: 14918, Seg size: 631
+[Unity] Response sent for step 912
+[Unity] Processing step 936
+[Unity] Scene updated for step 936, day 39, using prefab index 28
+[Unity] Response prepared for step 936, RGB size: 14817, Seg size: 554
+[Unity] Response sent for step 936
+[Unity] Processing step 960
+[Unity] Scene updated for step 960, day 40, using prefab index 28
+[Unity] Response prepared for step 960, RGB size: 14916, Seg size: 479
+[Unity] Response sent for step 960
+[Unity] Processing step 984
+[Unity] Scene updated for step 984, day 41, using prefab index 28
+[Unity] Response prepared for step 984, RGB size: 14884, Seg size: 454
+[Unity] Response sent for step 984
+[Unity] Processing step 1008
+[Unity] Scene updated for step 1008, day 42, using prefab index 28
+[Unity] Response prepared for step 1008, RGB size: 15097, Seg size: 395
+[Unity] Response sent for step 1008
+[Unity] Processing step 1032
+[Unity] Scene updated for step 1032, day 43, using prefab index 28
+[Unity] Response prepared for step 1032, RGB size: 14904, Seg size: 369
+[Unity] Response sent for step 1032
+[Unity] Processing step 1056
+[Unity] Scene updated for step 1056, day 44, using prefab index 28
+[Unity] Response prepared for step 1056, RGB size: 14694, Seg size: 367
+[Unity] Response sent for step 1056
+[Unity] Unknown message type: shutdown
