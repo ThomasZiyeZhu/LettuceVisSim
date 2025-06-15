@@ -15,6 +15,7 @@ A dynamic simulation system for lettuce growth that combines mechanistic modelin
 - Unity 2021.3 or higher (for development)
 - ZeroMQ
 - Required Python packages (see requirements.txt)
+- Download the Unity Build through https://github.com/ThomasZiyeZhu/LettuceVisSim/releases/download/v1.0/LettuceRender.zip
 
 ## Installation
 
